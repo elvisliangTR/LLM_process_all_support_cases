@@ -1,0 +1,5 @@
+snowflake-sqlalchemy
+pandas
+boto3
+pandas
+openai
