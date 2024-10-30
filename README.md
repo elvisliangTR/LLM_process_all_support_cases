@@ -3,7 +3,7 @@
 This script outlines a data processing pipeline using Snowflake and a language model. Below are the key components and steps involved.
 
 ## Requirements:
-- Snowflake Connector(https://github.com/elvisliangTR/_snowflake_connector): Required to load data from Snowflake. Alternatively, adjust the code for manually uploaded CSV files.
+- Snowflake Connector[https://github.com/elvisliangTR/_snowflake_connector]: Required to load data from Snowflake. Alternatively, adjust the code for manually uploaded CSV files.
 - Language Model (LLM): The script uses Claude 3.5. Note that the code will differ if using ChatGPT.
 
 ## Process Overview:
