@@ -1,4 +1,4 @@
-# Data Processing Pipeline
+# Data Processing Pipeline for GenAI processed results
 
 This script outlines a data processing pipeline using Snowflake and a language model. Below are the key components and steps involved.
 
